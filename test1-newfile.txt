@@ -4,9 +4,6 @@ this line is updated from branch - local
 20210806 - update from local - branch1
 20210806 #3 - update from local - branch2
 20210806 - update from local origin-main #1
-<<<<<<< HEAD
-
 this is update from branch3
-=======
 line 7 from main
->>>>>>> 99ab2f616ee90bc69012920f5788409cc4357506
+
